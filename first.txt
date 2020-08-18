@@ -1,3 +1,6 @@
 git practice
 
 workflow
+
+git add
+git commit
